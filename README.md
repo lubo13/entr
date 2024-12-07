@@ -8,7 +8,7 @@
  - Example: When we provide Sofia we expect to receive 4
  - Additionally, the weather temperature should contain a sign indicating the temperature trend. The trend should be calculated as the deviation between the temperature and the average of the last 10 days (calculation should be simple, avoid usage of statistics formulas).
  - - A negative, positive or static sign is then added as a suffix to the temperature value
- - - Example 4 :hot_face: or :cold_face: or 4 -
+ - - Example 4 :hot_face: or 4 :cold_face: or 4 -
 
 ## Must haves
  - Code in PHP
